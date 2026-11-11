@@ -1,0 +1,7 @@
+/home/vladimir/Study/OpenCV/College_code/KT1/OpenCV_KT1/build/Desktop_Qt_6_12_0_Debug/CMakeFiles/OpenCV_KT1.dir
+/home/vladimir/Study/OpenCV/College_code/KT1/OpenCV_KT1/build/Desktop_Qt_6_12_0_Debug/CMakeFiles/edit_cache.dir
+/home/vladimir/Study/OpenCV/College_code/KT1/OpenCV_KT1/build/Desktop_Qt_6_12_0_Debug/CMakeFiles/rebuild_cache.dir
+/home/vladimir/Study/OpenCV/College_code/KT1/OpenCV_KT1/build/Desktop_Qt_6_12_0_Debug/CMakeFiles/list_install_components.dir
+/home/vladimir/Study/OpenCV/College_code/KT1/OpenCV_KT1/build/Desktop_Qt_6_12_0_Debug/CMakeFiles/install.dir
+/home/vladimir/Study/OpenCV/College_code/KT1/OpenCV_KT1/build/Desktop_Qt_6_12_0_Debug/CMakeFiles/install/local.dir
+/home/vladimir/Study/OpenCV/College_code/KT1/OpenCV_KT1/build/Desktop_Qt_6_12_0_Debug/CMakeFiles/install/strip.dir
